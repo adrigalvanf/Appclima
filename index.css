@@ -46,7 +46,7 @@ input{
     background-size: contain;
     border-radius: 1%;
     border:0;
-    font-size: 30px;
+    font-size: 20px;
     background-color: rgb(245, 245, 245, 0.8);
     color: rgb(153, 153, 153);
 
@@ -76,4 +76,8 @@ button{
 img{
     height: 20px;
     width: 30px;
+}
+h1{
+    color: rgb(146, 182, 170);
+    margin-top: 3%;
 }
